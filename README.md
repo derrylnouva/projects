@@ -1,2 +1,2 @@
-# projects
-Projects I've created
+# Projects
+Platform where I share my projects to the world
